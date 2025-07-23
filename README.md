@@ -5,7 +5,7 @@
   />
 </p>
   
-### **🤗 Hi! I’m Hermine, a 20‑year‑old student at 42 Perpignan.**
+### **🤗 Hi! I’m Hermine, a 20‑year‑old student at 42 Perpignan Occitanie.**
   
 ![unnamed](https://github.com/user-attachments/assets/4deff43a-c3a5-49fa-b454-013b864dccaa)
 ### Long story short:
@@ -35,9 +35,12 @@ In the future, I plan to pursue the RCP7 diploma in [“Data architecture”](ht
 [![gnl](https://github.com/user-attachments/assets/ca9d9bc0-7464-4f59-a30a-f79254afb9e7)](https://github.com/hhecquet/get_next_line_README)
 [![born](https://github.com/user-attachments/assets/8a3806dc-c784-4002-b228-4e260e33b022)](https://github.com/hhecquet/Born2beroot_README)
 [![pushswap](https://github.com/user-attachments/assets/b453b095-7231-41bc-bd8f-8ae83c5c08bb)](https://github.com/hhecquet/push_swap_README)
-[![minital](https://github.com/user-attachments/assets/8a4f0d9a-a092-49fb-b02e-4ce77babb807)](https://github.com/hhecquet/minitalk_README)
-[![fdf](https://github.com/user-attachments/assets/98168702-3d85-4420-9659-e013ccb3cddf)](https://github.com/hhecquet/FdF_README)
+[![minitalk](https://github.com/user-attachments/assets/7abc07a6-3349-432a-85e6-9ca1b6e57c4d)](https://github.com/hhecquet/minitalk_README)
+[![fdf](https://github.com/user-attachments/assets/04f27511-6c4c-4f22-a857-9138e78f75b9)](https://github.com/hhecquet/FdF_README)
 [![philo](https://github.com/user-attachments/assets/79ec2f57-c707-40d2-a147-e36a0b3a815b)](https://github.com/hhecquet/Philosophers_README)
 [![minishell](https://github.com/user-attachments/assets/ca97a440-6334-4960-b78b-06b95b08e164)](https://github.com/hhecquet/minishell_README)
 [![net](https://github.com/user-attachments/assets/bf8c28a9-f8c6-4c6a-8ae2-86ca6261a430)](https://github.com/hhecquet/NetPractice_README)
+[![cub3d](https://github.com/user-attachments/assets/9d82040a-8297-4638-bcd6-5f10d9f9622b)](https://github.com/hhecquet/cub3d_README)
+[![cpp](https://github.com/user-attachments/assets/d9860e30-f48e-4717-844c-3731bff883a0)](https://github.com/hhecquet/CPP-Modules_README)
 [![incep](https://github.com/user-attachments/assets/47ef79ed-97e0-4cf7-9e10-398d4321709d)](https://github.com/hhecquet/Inception_README)
+[![irc](https://github.com/user-attachments/assets/0aebf815-aef6-40ec-94c6-f5494e7007b1)](https://github.com/hhecquet/ft_irc_README)
