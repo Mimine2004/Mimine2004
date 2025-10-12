@@ -18,12 +18,11 @@ I'm now searching for a job as a **Front-end / Web Developer**.
 ![unnamed](https://github.com/user-attachments/assets/4deff43a-c3a5-49fa-b454-013b864dccaa)
 ### Skills I have acquired or am currently developing:
 
-[![py](https://github.com/user-attachments/assets/fdf4e960-9b3a-469c-bbd5-24b0bb95b945)](https://www.python.org/)
-[![js](https://github.com/user-attachments/assets/e7d742da-e4cd-4af4-b702-6c1301e6579f)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![html](https://github.com/user-attachments/assets/9495cdb6-2054-4b76-8f81-85a819f7ecab)](https://developer.mozilla.org/fr/docs/Web/HTML)
-[![css](https://github.com/user-attachments/assets/79b4cdfe-b85b-4e7d-9f3d-fddbf79091e5)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![c++](https://github.com/user-attachments/assets/5731f366-e8f7-4293-98f2-ca7ac007ba00)](https://en.wikipedia.org/wiki/C++)
-[![c](https://github.com/user-attachments/assets/538dd63d-e9c4-488a-b8c6-dde72df283cc)](https://fr.wikipedia.org/wiki/C_(langage))
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,vim,vscode,py,pytorch,c,cs,cpp,docker,nginx,wordpress,mysql,sqlite,html,css,js,ts,vite,windows,linux,ubuntu,debian,arduino,blender,notion,ps,ai" />
+  </a>
+</p>
 
 ![unnamed](https://github.com/user-attachments/assets/4deff43a-c3a5-49fa-b454-013b864dccaa)
 
