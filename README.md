@@ -13,7 +13,7 @@ I have always been passionate about computer science since I was young. Between 
 I then chose to specialize in **engineering sciences** and **mathematics** for my college diploma at the *Military College of Aix‑en‑Provence*, where I had the opportunity to undertake Arduino projects such as a surgical arm and a CO₂ detector.
 Afterward, I enrolled at the Faculty of Nice in southern France, where I began learning SQL and Bash. However, it didn’t quite suit me, so I took a chance and signed up for the 42 Perpignan Piscine in **September 2024 🏊**.
 I succeeded and am now completing the common core curriculum.
-In the future, I plan to pursue the RCP7 diploma in [“Data architecture”](https://www.francecompetences.fr/recherche/rncp/39774/).
+I'm now searching for a job as a **Front-end / Web Developer**.
 
 ![unnamed](https://github.com/user-attachments/assets/4deff43a-c3a5-49fa-b454-013b864dccaa)
 ### Skills I have acquired or am currently developing:
