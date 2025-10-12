@@ -20,7 +20,7 @@ I'm now searching for a job as a **Front-end / Web Developer**.
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,vim,vscode,py,pytorch,c,cs,cpp,docker,nginx,wordpress,mysql,sqlite,html,css,js,ts,vite,windows,linux,ubuntu,debian,arduino,blender,notion,ps,ai" />
+    <img src="https://skillicons.dev/icons?i=git,bash,vim,vscode,py,pytorch,c,cs,cpp,docker,nginx,wordpress,mysql,sqlite,html,css,js,ts,vite,arduino,blender,ps,ai" />
   </a>
 </p>
 
