@@ -13,6 +13,8 @@ I have always been passionate about computer science since I was young. Between 
 I then chose to specialize in **engineering sciences** and **mathematics** for my college diploma at the *Military College of Aix‑en‑Provence*, where I had the opportunity to undertake Arduino projects such as a surgical arm and a CO₂ detector.
 Afterward, I enrolled at the Faculty of Nice in southern France, where I began learning SQL and Bash. However, it didn’t quite suit me, so I took a chance and signed up for the 42 Perpignan Piscine in **September 2024 🏊**.
 I succeeded and am now completing the common core curriculum.
+
+In **September 2025 🫧** I finally succeed the common core of 42.
 I'm now searching for a job as a **Front-end / Web Developer**.
 
 ![unnamed](https://github.com/user-attachments/assets/4deff43a-c3a5-49fa-b454-013b864dccaa)
@@ -51,3 +53,5 @@ I'm now searching for a job as a **Front-end / Web Developer**.
 
 [![AI_Snake](https://github.com/user-attachments/assets/db9d2794-89e4-4b40-9cf5-0db7d7a11074)](https://github.com/hhecquet/AI_Snake)
 [![LeRobot](https://github.com/user-attachments/assets/6fb4c4ab-e9df-44c1-9718-6d4b3e1ad103)](https://github.com/hhecquet/LeRobot)
+
+All the projects’ drawings are by me.
