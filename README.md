@@ -50,4 +50,4 @@ I'm now searching for a job as a **Front-end / Web Developer**.
 ### Personal Projects:
 
 [![AI_Snake](https://github.com/user-attachments/assets/db9d2794-89e4-4b40-9cf5-0db7d7a11074)](https://github.com/hhecquet/AI_Snake)
-[![LeRobot](https://github.com/user-attachments/assets/e277a4e2-4154-45f6-a8f5-f48f8181f8f7)](https://github.com/hhecquet/LeRobot)
+[![LeRobot](https://github.com/user-attachments/assets/6fb4c4ab-e9df-44c1-9718-6d4b3e1ad103)](https://github.com/hhecquet/LeRobot)
