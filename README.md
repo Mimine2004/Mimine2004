@@ -43,12 +43,11 @@ I'm now searching for a job as a **Front-end / Web Developer**.
 [![cpp](https://github.com/user-attachments/assets/d9860e30-f48e-4717-844c-3731bff883a0)](https://github.com/hhecquet/CPP-Modules_README)
 [![incep](https://github.com/user-attachments/assets/47ef79ed-97e0-4cf7-9e10-398d4321709d)](https://github.com/hhecquet/Inception_README)
 [![irc](https://github.com/user-attachments/assets/0aebf815-aef6-40ec-94c6-f5494e7007b1)](https://github.com/hhecquet/ft_irc_README)
-<img width="150" height="150" alt="IMG_0066" src="https://github.com/user-attachments/assets/da5e0001-b110-4427-bd07-e8a7851291b8" />
+[![ft_transcedence](https://github.com/user-attachments/assets/da5e0001-b110-4427-bd07-e8a7851291b8)](https://github.com/hhecquet/ft_transcendence_README)
 
 ![unnamed](https://github.com/user-attachments/assets/4deff43a-c3a5-49fa-b454-013b864dccaa)
 
 ### Personal Projects:
 
-<img width="150" height="150" alt="Illustration_sans_titre-1" src="https://github.com/user-attachments/assets/db9d2794-89e4-4b40-9cf5-0db7d7a11074" />
-<img width="150" height="150" alt="Illustration_sans_titre-2" src="https://github.com/user-attachments/assets/e277a4e2-4154-45f6-a8f5-f48f8181f8f7" />
-
+[![AI_Snake](https://github.com/user-attachments/assets/db9d2794-89e4-4b40-9cf5-0db7d7a11074)](https://github.com/hhecquet/AI_Snake)
+[![LeRobot](https://github.com/user-attachments/assets/e277a4e2-4154-45f6-a8f5-f48f8181f8f7)](https://github.com/hhecquet/LeRobot)
