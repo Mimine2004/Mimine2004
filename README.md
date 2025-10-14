@@ -15,7 +15,7 @@ Afterward, I enrolled at the Faculty of Nice in southern France, where I began l
 I succeeded and am now completing the common core curriculum.
 
 In **September 2025 🫧** I finally succeed the common core of 42.
-I'm now searching for a job as a **Front-end / Web Developer**.
+I'm now looking for a job as a **Front-end / Web Developer**.
 
 ![unnamed](https://github.com/user-attachments/assets/4deff43a-c3a5-49fa-b454-013b864dccaa)
 ### Skills I have acquired or am currently developing:
