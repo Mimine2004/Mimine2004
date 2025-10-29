@@ -1,8 +1,5 @@
 <p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/4d94780c-510d-47dc-87e4-659002d33c1e"
-    alt="Jim Carrey"
-  />
+  <img src="https://github.com/user-attachments/assets/4d94780c-510d-47dc-87e4-659002d33c1e"/>
 </p>
   
 ### **🤗 Hi! I’m Hermine, a 20‑year‑old student at 42 Perpignan Occitanie.**
@@ -54,4 +51,9 @@ I'm now looking for a job as a **Front-end / Web Developer**.
 [![AI_Snake](https://github.com/user-attachments/assets/db9d2794-89e4-4b40-9cf5-0db7d7a11074)](https://github.com/hhecquet/AI_Snake)
 [![LeRobot](https://github.com/user-attachments/assets/6fb4c4ab-e9df-44c1-9718-6d4b3e1ad103)](https://github.com/hhecquet/LeRobot)
 
-All the projects’ drawings are by me.
+
+All the projects’ drawings are by me. 
+
+<p align="center"> 
+    <img width="200" src="https://github.com/user-attachments/assets/092fc9ff-4d7e-4274-9a0d-7644272d292c" />
+</p>
