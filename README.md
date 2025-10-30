@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/4d94780c-510d-47dc-87e4-659002d33c1e"/>
 </p>
   
-### **🤗 Hi! I’m Hermine, a 20‑year‑old student at 42 Perpignan Occitanie.**
+### **🤗 Hi! I’m Hermine, a 21‑year‑old student at 42 Perpignan Occitanie.**
   
 ![unnamed](https://github.com/user-attachments/assets/4deff43a-c3a5-49fa-b454-013b864dccaa)
 ### Long story short:
