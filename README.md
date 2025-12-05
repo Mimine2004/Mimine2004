@@ -19,9 +19,10 @@ I'm now looking for a job as a **Front-end / Web Developer**.
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,vim,vscode,py,pytorch,c,cs,cpp,docker,nginx,wordpress,mysql,sqlite,html,css,js,ts,vite,arduino,blender,ps,ai" />
+    <img src="https://skillicons.dev/icons?i=git,bash,vim,vscode,py,pytorch,c,cs,cpp,docker,nginx,wordpress,mysql,sqlite,html,css,js,ts,vite,arduino,blender,ps,ai,aws" />
   </a>
 </p>
+<img width="114" height="114" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/f64f48f8-d81f-4fce-a13b-d13a0d3adaf1" />
 
 ![unnamed](https://github.com/user-attachments/assets/4deff43a-c3a5-49fa-b454-013b864dccaa)
 
