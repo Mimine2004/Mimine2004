@@ -23,6 +23,7 @@ I'm now looking for a job as a **Front-end / Web Developer**.
   </a>
 </p>
 <img width="114" height="114" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/f64f48f8-d81f-4fce-a13b-d13a0d3adaf1" />
+<img width="114" height="114" alt="Credential_Badge_-_Certified_System_Administrator" src="https://github.com/user-attachments/assets/21f4d601-daff-4c4e-b6f4-2ebcd85c6294" />
 
 ![unnamed](https://github.com/user-attachments/assets/4deff43a-c3a5-49fa-b454-013b864dccaa)
 
